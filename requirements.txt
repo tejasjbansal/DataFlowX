@@ -1,0 +1,6 @@
+pandas
+openai 
+faker 
+pyspark 
+confluent_kafka 
+fastavro

@@ -32,7 +32,7 @@ DataFlowX is an innovative end-to-end data engineering pipeline designed to hand
 ### Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourgithubusername/DataFlowX.git
+   git clone https://github.com/tejasjbansal/DataFlowX/
    cd DataFlowX
    ```
 
